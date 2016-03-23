@@ -1,8 +1,6 @@
-Before creating the pull-request, make sure you accomplish the following guidelines:
+Before creating the pull-request (PR), make sure you accomplish the following guidelines:
 
-1. Name the pull request using the following template:
-
-    Case ###: {description of the code changes or case}
+1. Name the PR using the following template -> Case ###: {description of changes or case}
 
 2. Re-check and clean your code for unnecessary additions such as logs, var_dumps, etc.
 
