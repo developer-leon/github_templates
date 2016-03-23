@@ -5,5 +5,3 @@ Before creating the pull-request (PR), make sure you accomplish the following gu
 2. Re-check and clean your code for unnecessary additions such as logs, var_dumps, etc.
 
 3. Only if unnecessary, add a detailed description and make use the GitHub's tags to mark it accordingly.
-
-:)
