@@ -4,12 +4,8 @@ Before creating the pull-request, make sure you accomplish the following guideli
 
     Case ###: {description of the code changes or case}
 
-2. Check you selected the right branches.
+2. Re-check and clean your code for unnecessary additions such as logs, var_dumps, etc.
 
-3. Only if unnecessary, add a detailed description.
-
-4. Re-check and clean your code for unnecesary additions such as logs, var_dumps, etc.
-
-5. If necessary, use the Pull-Request tags to mark the PR accordingly.
+3. Only if unnecessary, add a detailed description and make use the GitHub's tags to mark it accordingly.
 
 :)
